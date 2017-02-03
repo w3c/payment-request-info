@@ -10,5 +10,6 @@ Status: This site is in the earliest stages of development by a [task force](htt
 * Answers to common questions
 * Implementation status 
 * Branding guidance
+* Value proposition
 
 Questions? Write to public-payments-strategy@w3.org.
