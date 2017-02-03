@@ -1,5 +1,14 @@
 
-# Specification 'payment-request-info'
+# Developer Information for Payment Request API
 
-This is the repository for payment-request-info. You're welcome to contribute! Let's make the Web rock our socks
-off!
+This site provides information about the use of Payment Request API to streamline Web checkout. 
+
+Status: This site is in the earliest stages of development by a [task force](https://github.com/w3c/webpayments/wiki/Adoption2017) of the [W3C Web Payments Working Group](http://www.w3.org/Payments/WG/). We anticipate providing the following kind of information:
+
+* Code examples
+* User experience patterns
+* Answers to common questions
+* Implementation status 
+* Branding guidance
+
+Questions? Write to public-payments-strategy@w3.org.
