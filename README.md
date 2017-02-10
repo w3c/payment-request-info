@@ -11,5 +11,6 @@ Status: This site is in the earliest stages of development by a [task force](htt
 * Implementation status 
 * Branding guidance
 * Value proposition
+  * Based on merchant size?
 
 Questions? Write to public-payments-strategy@w3.org.
