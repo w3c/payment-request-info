@@ -8,6 +8,7 @@ Status: This site is in the earliest stages of development by a [task force](htt
 * Code examples
 * User experience patterns
 * Answers to common questions
+  * e.g., how to use offer codes with the API
 * Implementation status 
 * Branding guidance
 * Value proposition
