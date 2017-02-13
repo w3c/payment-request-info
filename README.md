@@ -8,9 +8,8 @@ Status: This site is in the earliest stages of development by a [task force](htt
 * [Code examples](https://github.com/w3c/payment-request-info/wiki/CodeExamples)
 * [Developer guides](https://github.com/w3c/payment-request-info/wiki/DeveloperGuides)
 * User experience patterns
-* Answers to common questions
-  * e.g., how to use offer codes with the API
-* Implementation status 
+* [Frequently Asked Questions (FAQ)](https://github.com/w3c/payment-request-info/wiki/FAQ)
+* [Implementation status](https://github.com/w3c/payment-request-info/wiki/ImplementationStatus)
 * Branding guidance
 * Value proposition
   * Based on merchant size?
