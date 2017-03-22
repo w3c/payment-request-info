@@ -14,3 +14,6 @@ Status: This site is in the earliest stages of development by a [task force](htt
 * [Value proposition](https://github.com/w3c/payment-request-info/wiki/ValueProposition)
 
 Questions? Write to public-payments-strategy@w3.org.
+
+NOTE:
+* Add Security / Fraud as a top-level topic
