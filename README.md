@@ -10,7 +10,7 @@ Status: This site is in the earliest stages of development by a [task force](htt
 * [Developer guides](https://github.com/w3c/payment-request-info/wiki/DeveloperGuides)
 * [Frequently Asked Questions (FAQ)](https://github.com/w3c/payment-request-info/wiki/FAQ) about checkout pages, security and fraud management, payment apps, and relation to other standards activities.
 * [Implementation status](https://github.com/w3c/payment-request-info/wiki/ImplementationStatus)
-* [Payment method good practice](https://github.com/w3c/payment-request-info/wiki/PaymentMethodPractice)
+* [Payment method good practice](https://github.com/w3c/payment-request-info/wiki/PaymentMethodPractice), for those creating their own payment methods and integrating them with PaymentRequest API.
 * [Branding](https://github.com/w3c/payment-request-info/wiki/Branding)
 * [Value proposition](https://github.com/w3c/payment-request-info/wiki/ValueProposition)
 
