@@ -8,7 +8,7 @@ Status: This site is in the earliest stages of development by a [task force](htt
 * [Introductions to Payment Request API](https://github.com/w3c/payment-request-info/wiki/Introductions)
 * [Code examples](https://github.com/w3c/payment-request-info/wiki/CodeExamples)
 * [Developer guides](https://github.com/w3c/payment-request-info/wiki/DeveloperGuides)
-* [Frequently Asked Questions (FAQ)](https://github.com/w3c/payment-request-info/wiki/FAQ)
+* [Frequently Asked Questions (FAQ)](https://github.com/w3c/payment-request-info/wiki/FAQ) about checkout pages, security, payment apps, and relation to other standards activities.
 * [Implementation status](https://github.com/w3c/payment-request-info/wiki/ImplementationStatus)
 * [Branding](https://github.com/w3c/payment-request-info/wiki/Branding)
 * [Value proposition](https://github.com/w3c/payment-request-info/wiki/ValueProposition)
